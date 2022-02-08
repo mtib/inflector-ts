@@ -1,0 +1,3 @@
+[submodule "inflector"]
+	path = inflector
+	url = https://github.com/LFalch/inflector
